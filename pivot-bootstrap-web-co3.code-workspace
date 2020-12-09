@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "webfonts",
+			"path": "../../fontawesome-free-5.15.1-web/webfonts"
+		},
+		{
+			"name": "pivot-bootstrap-web-co3",
+			"path": "."
+		}
+	],
+	"settings": {}
+}

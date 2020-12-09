@@ -9,9 +9,17 @@ nav {
     background-color:#f3c98bff;
 }
 
+footer  {
+        background-color:#f3c98bff;
+}
+
 .card{
     margin: 0;
+    margin-top:25px;
+    padding:25px;
+    padding:25px;
 }
+
 
 img {
     max-height: 232.177px;
@@ -19,8 +27,24 @@ img {
 
 .card img{
    max-height: 232.177px;
+   
 }
 
 .carousel-item img {
     max-height:400px;
 }
+
+
+
+
+/* Typography */
+h1,h2,h3,h4,h5,h6 {
+    font-family: opens sans-serif;
+}
+
+p,a {
+    font-family: Oswald', sans-serif;  
+}
+
+
+
